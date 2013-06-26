@@ -5,6 +5,10 @@ Overview
 ---------
 Grocery is a web application that allows a family to manage their grocery shopping list. A sample deployment can be found here: [Grocery](http://rocky-atoll-4820.herokuapp.com/)
 
+Screenshot
+----------
+![Screenshot](/public/screenshot.jpg)
+
 Setup
 ------
 To run, install rails 4.0, then cd into the root directory of this source and run the following commands:
