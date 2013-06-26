@@ -15,7 +15,7 @@ bundle install
 bundle exec rake db:migrate
 rails s
 ```
-The last command starts up the server. You can visit the application at http://localhost:3000
+The last command starts up the server. You can visit the application at [http://localhost:3000](http://localhost:3000)
 
 On the next in Grocery development
 ----------------------------------
